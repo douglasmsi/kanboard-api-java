@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 29 21:43:21 BRT 2018
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1535589789309
+https\://repo.spring.io/snapshot/.lastUpdated=1535589756612
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1535589801578
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.bytebuddy\:byte-buddy\:jar\:1.8.17 from/to central (https\://repo.maven.apache.org/maven2)\: /home/douglasmsi/.m2/repository/net/bytebuddy/byte-buddy/1.8.17/aether-6e28b428-5646-48a5-b0f3-65520ce0791f-byte-buddy-1.8.17.jar-in-progress (No such file or directory)

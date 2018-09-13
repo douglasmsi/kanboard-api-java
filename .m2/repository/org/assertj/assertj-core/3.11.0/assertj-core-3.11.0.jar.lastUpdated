@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 29 21:43:21 BRT 2018
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1535589789309
+https\://repo.spring.io/snapshot/.lastUpdated=1535589756612
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1535589801505
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.assertj\:assertj-core\:jar\:3.11.0 from/to central (https\://repo.maven.apache.org/maven2)\: /home/douglasmsi/.m2/repository/org/assertj/assertj-core/3.11.0/aether-ba196574-f7e9-4c8f-92b3-ebed0fcbf723-assertj-core-3.11.0.jar-in-progress (No such file or directory)

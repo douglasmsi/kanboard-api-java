@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 02 21:35:01 BRT 2018
+junit-4.12-sources.jar>central=
+junit-4.12-javadoc.jar>central=
+junit-4.12.pom>central_repository=
+junit-4.12.jar>central_repository=
+junit-4.12.jar>spring-releases=
+junit-4.12.jar>central=
+junit-4.12.pom>central=

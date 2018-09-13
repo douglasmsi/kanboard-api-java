@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 04 15:27:08 BRT 2018
+maven-archiver-2.6.jar>central=
+maven-archiver-2.6.jar>spring-releases=
+maven-archiver-2.6.pom>central=
+maven-archiver-2.6.pom>spring-releases=

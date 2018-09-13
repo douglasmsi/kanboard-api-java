@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 04 15:27:08 BRT 2018
+maven-shade-plugin-2.2.jar>central=
+maven-shade-plugin-2.2.pom>central=
+maven-shade-plugin-2.2.jar>spring-releases=
+maven-shade-plugin-2.2.pom>spring-releases=

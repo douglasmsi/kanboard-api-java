@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 21:24:51 BRT 2018
+ognl-3.0.8.jar>central=
+ognl-3.0.8-sources.jar>central=
+ognl-3.0.8.pom>central=

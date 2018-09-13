@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 23:16:50 BRT 2018
+spring-core-5.0.4.RELEASE-sources.jar>spring-milestone=
+spring-core-5.0.4.RELEASE.jar>spring-milestone=
+spring-core-5.0.4.RELEASE.pom>spring-milestone=

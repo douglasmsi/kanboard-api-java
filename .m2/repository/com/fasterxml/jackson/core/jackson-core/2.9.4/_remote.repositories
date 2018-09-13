@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 23:16:29 BRT 2018
+jackson-core-2.9.4.jar>spring-releases=
+jackson-core-2.9.4.pom>spring-releases=
+jackson-core-2.9.4.jar>central=
+jackson-core-2.9.4-sources.jar>central=
+jackson-core-2.9.4.pom>central=

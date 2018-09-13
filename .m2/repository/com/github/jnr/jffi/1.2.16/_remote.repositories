@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 29 21:43:33 BRT 2018
+jffi-1.2.16.jar>central=
+jffi-1.2.16-sources.jar>central=
+jffi-1.2.16.pom>central=
+jffi-1.2.16-native.jar>central=

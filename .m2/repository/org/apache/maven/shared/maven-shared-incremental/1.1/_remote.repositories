@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 02 21:30:51 BRT 2018
+maven-shared-incremental-1.1.pom>spring-releases=
+maven-shared-incremental-1.1.jar>central=
+maven-shared-incremental-1.1.pom>central=
+maven-shared-incremental-1.1.jar>spring-releases=

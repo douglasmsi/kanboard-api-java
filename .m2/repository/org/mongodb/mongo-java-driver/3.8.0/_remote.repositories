@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 21:36:36 BRT 2018
+mongo-java-driver-3.8.0.pom>central=
+mongo-java-driver-3.8.0.jar>central=
+mongo-java-driver-3.8.0-sources.jar>central=

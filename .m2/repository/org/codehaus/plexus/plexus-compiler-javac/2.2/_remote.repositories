@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 07 22:27:14 BRT 2018
+plexus-compiler-javac-2.2.jar>spring-releases=
+plexus-compiler-javac-2.2.pom>central=
+plexus-compiler-javac-2.2.pom>spring-releases=
+plexus-compiler-javac-2.2.jar>central=

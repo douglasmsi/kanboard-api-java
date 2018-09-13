@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 21:17:47 BRT 2018
+maven-clean-plugin-2.6.1.pom>central=
+maven-clean-plugin-2.6.1.jar>spring-releases=
+maven-clean-plugin-2.6.1.jar>central=
+maven-clean-plugin-2.6.1.pom>spring-releases=

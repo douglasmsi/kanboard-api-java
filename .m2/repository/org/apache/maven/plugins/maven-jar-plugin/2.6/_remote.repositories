@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 21:18:09 BRT 2018
+maven-jar-plugin-2.6.pom>central=
+maven-jar-plugin-2.6.pom>spring-releases=
+maven-jar-plugin-2.6.jar>central=
+maven-jar-plugin-2.6.jar>spring-releases=

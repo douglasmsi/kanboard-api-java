@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 04 15:27:08 BRT 2018
+maven-settings-3.1.1.jar>spring-releases=
+maven-settings-3.1.1.jar>central=
+maven-settings-3.1.1.pom>spring-releases=
+maven-settings-3.1.1.pom>central=

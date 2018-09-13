@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 29 21:44:29 BRT 2018
+spring-boot-devtools-2.1.0.M2-sources.jar>spring-milestones=
+spring-boot-devtools-2.1.0.M2.jar>spring-milestones=
+spring-boot-devtools-2.1.0.M2.pom>spring-milestones=

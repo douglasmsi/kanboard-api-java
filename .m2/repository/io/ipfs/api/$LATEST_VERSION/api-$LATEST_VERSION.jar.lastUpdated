@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 10 21:53:36 BRT 2018
+https\://jitpack.io/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+https\://repo.spring.io/snapshot/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1533948816348
+https\://repo.spring.io/snapshot/.lastUpdated=1533948816168
+https\://repo.spring.io/milestone/.lastUpdated=1533948815923
+https\://jitpack.io/.lastUpdated=1533948815679
+https\://repo.maven.apache.org/maven2/.lastUpdated=1533948816544
+https\://repo.spring.io/milestone/.error=
+https\://repo.maven.apache.org/maven2/.error=

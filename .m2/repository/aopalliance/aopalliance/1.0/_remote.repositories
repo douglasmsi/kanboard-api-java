@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 23 22:54:55 BRT 2018
+aopalliance-1.0.pom>central=
+aopalliance-1.0-sources.jar>central=
+aopalliance-1.0.jar>spring-releases=
+aopalliance-1.0.pom>spring-releases=
+aopalliance-1.0.jar>central=

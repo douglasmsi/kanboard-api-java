@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 21:23:44 BRT 2018
+commons-compress-1.9.jar>spring-releases=
+commons-compress-1.9.pom>spring-releases=
+commons-compress-1.9.jar>central=
+commons-compress-1.9.pom>central=

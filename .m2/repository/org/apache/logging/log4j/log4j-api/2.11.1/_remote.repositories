@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 29 21:43:26 BRT 2018
+log4j-api-2.11.1.pom>central=
+log4j-api-2.11.1.jar>central=
+log4j-api-2.11.1-sources.jar>central=

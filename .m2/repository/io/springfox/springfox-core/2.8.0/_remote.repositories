@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 23 22:47:05 BRT 2018
+springfox-core-2.8.0-sources.jar>central=
+springfox-core-2.8.0.jar>central=
+springfox-core-2.8.0.pom>central=

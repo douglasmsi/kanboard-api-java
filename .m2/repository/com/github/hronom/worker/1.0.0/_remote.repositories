@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 23 22:47:54 BRT 2018
+worker-1.0.0.jar>=
+worker-1.0.0.pom>=
